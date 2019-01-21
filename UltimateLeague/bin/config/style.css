@@ -1,0 +1,35 @@
+.root {
+	-fx-background-color: linear-gradient(darkgreen, lightgreen, darkgreen,darkred, lightyellow, darkblue);
+}/*
+.button{
+	-fx-opacity:0.6;
+	-fx-background-image: 
+} */
+.button:hover{
+	-fx-opacity:1;
+}
+.window{
+	-fx-background-radius:103;
+}
+.windowButton{
+	-fx-border-color:gold;
+	-fx-border-width:0;
+	-fx-background-radius:1;
+	-fx-background-color:black;
+}
+.windowButton:hover{
+	-fx-border-width:2.5;
+	-fx-border-insets:-2;
+	-fx-border-color:radial-gradient(center 50% 50%, radius 85%, gold, black)
+}
+#closeButton{
+	-fx-background-radius:0;
+	-fx-border-style:null;
+	-fx-background-color:green;
+}
+#buttonWithImage { 
+    -fx-background-image: url('prefererererererences.png');
+    -fx-background-size: 30;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 90%;
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Directories> 
+    <DatabaseDirectory>C:\\Users\\epenner7169\\Documents\\ulieague112\\UltimateLeague\\src\\config\\</DatabaseDirectory>
+    <Files>
+    	<Tabelle>tabellendb.txt</Tabelle> 
+    	<Vereine>vereinsdb.txt</Vereine> 
+	</Files>
+</Directories> 
